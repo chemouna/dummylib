@@ -6,6 +6,6 @@ public class DummyVersion {
     }
 
     public String getVersion() {
-        return "0.6";
+        return "0.7";
     }
 }
